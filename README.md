@@ -2,6 +2,7 @@
 simple start web project
 
 ##How to contribute
+it shows how to contribute
 
 ##Deployment
 
