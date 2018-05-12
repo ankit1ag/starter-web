@@ -5,5 +5,7 @@ simple start web project
 it shows how to contribute
 
 ##Deployment
+how to deploy
 
 ## By Ankit Agarwal
+developer
